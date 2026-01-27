@@ -1,4 +1,4 @@
-# Sales-Customer-Analytics-Dashboard-2023
+# TABLEAU Sales-Customer-Analytics-Dashboard-2023
 Interactive Sales and Customer dashboards built to analyze revenue, profit, customer behavior, and order trends for the year 2023 using data visualization techniques.
 # 📊 Sales & Customer Analytics Dashboard – 2023
 
