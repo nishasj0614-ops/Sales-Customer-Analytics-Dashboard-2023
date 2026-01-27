@@ -52,15 +52,6 @@ The Customer Dashboard focuses on customer analytics:
 
 ---
 
-## 📷 Dashboard Preview
-Sales Dashboard  
-![Sales Dashboard](sales_dashboard.png)
-
-Customer Dashboard  
-![Customer Dashboard](customer_dashboard.png)
-
----
-
 ## 🚀 Conclusion
 This project demonstrates my ability to:
 - Analyze business data effectively
