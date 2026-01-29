@@ -1,5 +1,9 @@
 # TABLEAU Sales-Customer-Analytics-Dashboard-2023
+
+CLICK HERE PROJECT LINK: https://public.tableau.com/views/CUS_SALES/salesdashboard?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 Interactive Sales and Customer dashboards built to analyze revenue, profit, customer behavior, and order trends for the year 2023 using data visualization techniques.
+
+
 # 📊 Sales & Customer Analytics Dashboard – 2023
 
 ## 📌 Project Overview
